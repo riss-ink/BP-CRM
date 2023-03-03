@@ -1,0 +1,86 @@
+﻿11,website creation,Redesign or New Build,string
+11,website creation,"Import Blogs (If so, how Many?)",string
+11,website creation,Images (Replace or Reuse?),string
+11,website creation,Note For Redesigns:,text
+11,website creation,Note For New Builds:,text
+11,website creation,Templated Site? Which Theme?,sting
+11,website creation,Art Directors Notes:,text
+11,website creation,Additional Notes:,text
+11,e-commerce site build details,"What shipping rate is charged (flat rate, carrier calculated, state by state, etc...)",json
+11,e-commerce site build details,What Payment Processor? ,string
+11,e-commerce site build details,Which carriers do you support?,text
+11,e-commerce site build details,"Email address contact forms should 
+send notifications to? 
+Please supply email address.",string
+11,e-commerce site build details,Primary Domain name to use?,sting
+11,e-commerce site build details,"Any additional domains 
+to be forwarded?",json
+11,e-commerce site build details,"Tax (In what states do you charge sales tax, and how much?)",json
+11,website migration,What is the scheduled migration date?,date
+11,website migration,Notes,text
+11,graphic design,Dimension(s),string
+11,graphic design,"Format: (.pdf, .jpg, .png, .psd, .gif, .ai, .id, .eps)",string
+11,graphic design,"Design examples (link to image, website, screenshot, or image upload to basecamp)",json
+11,graphic design,Please describe what you would like built in as much detail as possible to provide accurate direction to the design team.,text
+2,dates,Start Date,date
+2,dates,End Date,date
+2,,Search Console Access,string
+"4,2,6",,Google My Business Access,string
+2,,Has questionnaire been completed?,bool
+2,,Could you please provide us your logo larger than 250px by 250px?,string
+1,client info,Client Selected Package,string
+1,client info,Point of Contact,string
+1,client info,Point of Contact Information,string
+1,dates,Start Date,date
+1,dates,End Date,date
+1,demographics,Primary target (age/gender),string
+1,demographics,Secondary target (age/gender),string
+1,demographics,Interests,json
+1,ad #1,Promo Information,string
+1,ad #1,Destination Url,sting
+1,ad #1,Images(If Applicable),json
+1,ad #2,Promo Information,string
+1,ad #2,Destination Url,sting
+1,ad #2,Images(If Applicable),json
+1,ad #3,Promo Information,string
+1,ad #3,Destination Url,sting
+1,ad #3,Images(If Applicable),json
+1,,Facebook URL,string
+1,,"Can the team use stock images on ads, or strictly images from the client's website?",sting
+"1,3,4,6",,Email Address for TapClicks:,sting
+1,,Email Address for Zapier:,string
+1,,Does client have email list to provide for audience information?,string
+1,,Does client have privacy policy? Do they have it on their website? (only for lead generating ads),sting
+1,,Notes,text
+3,display info,Website Preferences,json
+3,display info,Impression Count,json
+3,display info,Destination URLs,json
+3,display info,Age Targeted,string
+3,display info,Gender Targeted,string
+3,display info,"Can the team use stock images on ads, or strictly images from the client's website?",string
+3,,Notes To Relay To Staff,text
+3,,"Any additional targeting details? 
+Interests, demographics, contextual keywords?",text
+4,,Conversion Tracking Goals,json
+4,,Ad Run Schedule (time and days),json
+4,,Are Call Ads Approved?,bool
+4,,Preliminary Negative Keyword Phrases,json
+4,,Expected Launch Date,date
+4,,Notes,text
+6,,Mission Statement,string
+6,,EIN Number,string
+6,,Direct Contact,string
+6,,Direct Contact Title,string
+6,,Tech Soup Validation Token (if applicable),string
+6,,Conversion Tracking Goals,text
+6,,Preliminary Negative Keyword Phrases,json
+6,,Geographic Target,json
+6,,Current Adwords CID (If Available),string
+6,,Offered Services,json
+6,,Expected Launch Date,date
+6,,What Sets The Client Apart From Their Industry,text
+7,,Desired Colors,string
+7,,Length,string
+7,,Style (text animation or standard),string
+7,,"Design examples (link to image, website, screenshot, or image upload to basecamp)",json
+7,,Please describe what you would like built in as much detail as possible to provide accurate direction to the design team.,text
